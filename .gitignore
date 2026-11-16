@@ -1,0 +1,12 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+database/*.db
+exports/*
+*.xlsx
+*.pdf
+*.csv
+.DS_Store
